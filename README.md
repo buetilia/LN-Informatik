@@ -1,2 +1,3 @@
 # LN-Informatik
-Lia Bütikofer, Vanessa Cankocev, Lilia Totila
+Lia Bütikofer, Vanessa Cakoncev, Lilia Totila
+Wir werden Daten zusammenfassen zu einer Studie über...
