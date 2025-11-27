@@ -1,4 +1,4 @@
-# LN-Informatik
+# Korrelation zwischen Alphabetisierungsrate und BIP pro Kopf
 Lia Bütikofer (buetilia@students.zhaw.ch), Vanessa Cakoncev (cakonvan@students.zhaw.ch), Lilia Totila (totillil@students.zhaw.ch)
 
 ## Fragestellung: 
