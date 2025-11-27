@@ -2,4 +2,4 @@
 Lia Bütikofer (buetilia@students.zhaw.ch), Vanessa Cakoncev (cakonvan@students.zhaw.ch), Lilia Totila (totillil@students.zhaw.ch)
 
 ## Fragestellung: 
-Beeinflusst die Alphabetisierungsrate das wirtschaftliche Entwicklungsniveau eines Landes, gemessen am BIP pro Kopf, im Jahr 2023?
+Gibt es einen Zusammenhang zwischen der Alphabetisierung und dem BIP pro Kopf verglichen über die Jahre 1985-2023?
