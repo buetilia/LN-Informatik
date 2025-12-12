@@ -1,4 +1,4 @@
-# Korrelation zwischen Alphabetisierungsrate und BIP pro Kopf
+# BIP-Analphabethismus Verhältnis in kriegsbetroffenen Ländern
 Lia Bütikofer (buetilia@students.zhaw.ch), Vanessa Cakoncev (cakonvan@students.zhaw.ch), Lilia Totila (totillil@students.zhaw.ch)
 
 ## Fragestellung: 
