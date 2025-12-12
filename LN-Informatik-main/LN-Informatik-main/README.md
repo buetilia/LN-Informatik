@@ -2,4 +2,4 @@
 Lia Bütikofer (buetilia@students.zhaw.ch), Vanessa Cakoncev (cakonvan@students.zhaw.ch), Lilia Totila (totillil@students.zhaw.ch)
 
 ## Fragestellung: 
-Gibt es einen Zusammenhang zwischen der Alphabetisierung und dem BIP pro Kopf verglichen über die Jahre 1985-2023?
+Wie hat sich das BIP-Analphabethismus Verhältnis in kriegsbetroffenen Ländern (Afghanistan, Sudan, Syrien und Irak) von 1985 bis 2023 verändert?
